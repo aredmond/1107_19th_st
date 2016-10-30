@@ -62,8 +62,8 @@
 - 1 recycle
     - kitchen
 - pull up bar
+- 5 chairs
 
 # Strategy
 
-- Change mailing address get 20\% off coupon for BBB.  Apply to growing list of home supplies.
-- 5 chairs
+- complete - Change mailing address get 20\% off coupon for BBB.  Apply to growing list of home supplies.
