@@ -63,6 +63,7 @@
     - kitchen
 - pull up bar
 - 5 chairs
+- Healing Crystals
 
 # Strategy
 
